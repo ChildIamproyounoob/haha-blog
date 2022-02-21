@@ -1,1 +1,1 @@
-# haha-blog
+# Design-thinking-blog-exercise
